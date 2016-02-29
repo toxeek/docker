@@ -1,0 +1,14 @@
+---
+galaxy_info:
+  author: toxeek
+  description: An Ansible role for installing Docker on Ubuntu.
+  license: Apache
+  min_ansible_version: 1.2
+  platforms:
+  - name: Ubuntu
+    versions:
+    - trusty
+  categories:
+  - cloud
+  - system
+dependencies: []
