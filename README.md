@@ -11,7 +11,7 @@ This role requires Ansible 1.2 or higher.
 Role Variables
 --------------
 
-there is one variable for the system that will be added to the docker group we create in the role. This variable is named system_user. 
+there is one variable for the system user that will be added to the docker group we create in the role. This variable is named system_user. 
 
 Dependencies
 ------------
